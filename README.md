@@ -13,9 +13,9 @@ SO THAT I can measure my progress.
 ```
 GIVEN a workout-tracking application
 WHEN I open the Workout Tracker
-THEN I am given the option to create a new workout or continue with their last workout.
+THEN I am given the option to create a new workout or continue with my last workout.
 THEN I am able to add exercises to the most recent workout plan or a new workout plan.
-WHEN I view the `stats` page
+WHEN I view the stats page
 THEN I am able to View the combined weight of multiple exercises from the past seven workouts.
 THEN I am able to View the total duration of each workout from the past seven workouts.
 ```
