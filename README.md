@@ -1,6 +1,6 @@
 # Workout Tracker
 ## Description
-The purpose of this project was to create an application that can be used to write and save notes.
+The purpose of this project was to create an applications that allows users to track their workouts. Users can create new workouts, continue workouts, and view a dashboard.
 
 ## User Story
 ```
@@ -21,7 +21,7 @@ THEN I am able to View the total duration of each workout from the past seven wo
 ```
 
 ## Link
-https://github.com/mikepizzica/workout-tracker
+https://workout-tracker-mike-pizzica.herokuapp.com/
 
 ## Screenshot
 ![Screenshot of workout tracker](./public/assets/images/screenshot-note-taker.png)
