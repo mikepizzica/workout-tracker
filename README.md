@@ -24,4 +24,4 @@ THEN I am able to View the total duration of each workout from the past seven wo
 https://workout-tracker-mike-pizzica.herokuapp.com/
 
 ## Screenshot
-![Screenshot of workout tracker](./public/assets/images/screenshot-note-taker.png)
+![Screenshot of workout tracker](./assets/screenshot-workout-tracker.png)
