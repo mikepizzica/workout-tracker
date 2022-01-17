@@ -4,7 +4,6 @@ const mongoose = require("mongoose");
 const viewRoutes = require("./routes/viewRoutes.js");
 const apiRoutes = require("./routes/apiRoutes");
 
-// added this from "MongoAtlas-Deploy" directions in "Important" folder
 mongoose.connect(
   process.env.MONGODB_URI || 'mongodb://localhost/workout-tracker',
   {
