@@ -1,9 +1,6 @@
 const router = require("express").Router();
 const Workout = require("../models/workoutPlan.js");
 
-// create routes for api.js
-// look at directions use aggregates
-
 // create new workout
 router.post("/api/workouts", ({body}, res) => {
     Workout.create(body)
